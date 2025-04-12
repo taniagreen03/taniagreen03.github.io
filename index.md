@@ -4,13 +4,10 @@ layout: default
 
 ## About Me
 
-Hi, I’m Tania Green — a passionate learner with a love for analysis and problem-solving.
+Hi! I’m Tania Green — a business operations analyst turned aspiring data scientist, passionate about problem-solving through machine learning and statistical insight. Take a look at my curated portfolio below.
 
----
-
-## Resume
-
-[Download my resume (PDF)](/files/Tania_Green_Resume_2025.pdf)
+<a href="/files/Tania_Green_Resume_2025.pdf" class="button" target="_blank">📄 View My Resume</a>
+<a href="https://www.linkedin.com/in/taniagreen03" class="button" target="_blank">🔗 Connect on LinkedIn</a>
 
 ---
 
@@ -31,5 +28,7 @@ By applying **Pearson and Spearman** correlation tests, the project uncovered in
 [Customer Segmentation with Clustering](https://github.com/taniagreen03/customer-segmentation)
 
 
-### Project 3
+### Telecom Churn Prediction
+Explored patterns in customer characteristics to predict churn—the likelihood that a telecom customer would cancel their service. 
+
 [Telecom Churn Predicition](https://github.com/taniagreen03/Telecom-Churn-Prediction)
