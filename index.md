@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-Hi! I’m Tania Green — a business operations analyst turned aspiring data scientist, passionate about problem-solving through machine learning and statistical insight. Take a look at my curated portfolio below.
+Welcome! I’m Tania Green — a lifelong learner who loves using data to answer big questions. Scroll down to explore my handpicked data science projects, and feel free to reach out if one sparks your interest!
 
 <a href="/files/Tania_Green_Resume_2025.pdf" class="button" target="_blank">📄 View My Resume</a>
 <a href="https://www.linkedin.com/in/taniagreen03" class="button" target="_blank">🔗 Connect on LinkedIn</a>
