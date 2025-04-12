@@ -14,10 +14,14 @@ Hi, I’m Tania Green — a passionate learner with a love for analysis and prob
 
 ---
 
-## Portfolio Projects
+## Projects
 ### Decoding Customer Sentiment: Analyzing Amazon Reviews Across Product Categories 
-Explored the alignment between customer-written Amazon reviews and their corresponding star ratings across various product categories. Utilizing Natural Language Processing (NLP) techniques such as **VADER**, the analysis aimed to determine whether the sentiment expressed in review texts accurately reflects the numerical ratings provided by customers. The anlysis revealed instances where written sentiment did not correspond with the star rating, highlighting the complexity of customer feedback and the potential limitations of relying solely on numerical ratings for product evaluation. 
-Relevant tools and techniques: **Python, Pearson and Spearman Statitical Correlation Tests, Data Visualization**
+Explored the alignment between customer-written Amazon reviews and their corresponding star ratings across various product categories. Utilizing Natural Language Processing (NLP) techniques such as **VADER**, the analysis aimed to determine whether the sentiment expressed in review texts accurately reflected the numerical ratings provided by customers. 
+
+By applying **Pearson and Spearman** correlation tests, the project uncovered instances where sentiment and star ratings diverged — highlighting the complexity of customer feedback and the limitations of relying solely on numerical scores for product evaluation.
+
+**Tools & Techniques:** <br>
+**Python, VADER Sentiment Analysis, Statistical Correlation (Pearson & Spearman), Data Visualization**
 
 ![Sentiment Analysis](files/amazon_review_sentiment.png)
 
