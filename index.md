@@ -32,4 +32,4 @@ By applying **Pearson and Spearman** correlation tests, the project uncovered in
 
 
 ### Project 3
-[Income Prediction Model](https://github.com/taniagreen03/income-prediction)
+[Telecom Churn Predicition](https://github.com/taniagreen03/Telecom-Churn-Prediction)
