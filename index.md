@@ -24,11 +24,9 @@ By applying **Pearson and Spearman** correlation tests, the project uncovered in
 
 [Amazon Review Sentiment Analysis](https://github.com/taniagreen03/D502-Capstone)
 
-### Project 2
-[Customer Segmentation with Clustering](https://github.com/taniagreen03/customer-segmentation)
-
-
 ### Telecom Churn Prediction
-Explored patterns in customer characteristics to predict churn—the likelihood that a telecom customer would cancel their service. 
+I built a predictive model to identify customers at risk of churning using a real-world telecom dataset. After performing exploratory data analysis (EDA) and feature engineering, I trained and evaluated multiple classification models, including Logistic Regression and Random Forest.
+
+Random Forest achieved strong performance on the test set; however, cross-validation results showed that Logistic Regression consistently outperformed Random Forest in terms of F1 score (60% vs 55%). Since F1 score is a better measure for imbalanced classification tasks like churn prediction, Logistic Regression was selected as the final model. Key predictors of churn included contract type, tenure, payment method, and whether the customer had online security or tech support services.
 
 [Telecom Churn Predicition](https://github.com/taniagreen03/Telecom-Churn-Prediction)
