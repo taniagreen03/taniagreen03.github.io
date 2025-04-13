@@ -29,4 +29,6 @@ I built a predictive model to identify customers at risk of churning using a rea
 
 Random Forest achieved strong performance on the test set; however, cross-validation results showed that Logistic Regression consistently outperformed Random Forest in terms of F1 score (60% vs 55%). Since F1 score is a better measure for imbalanced classification tasks like churn prediction, Logistic Regression was selected as the final model. Key predictors of churn included contract type, tenure, payment method, and whether the customer had online security or tech support services.
 
+![Churn Feature Importance](files/feature_importance.png)
+
 [Telecom Churn Predicition](https://github.com/taniagreen03/Telecom-Churn-Prediction)
