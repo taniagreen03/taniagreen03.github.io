@@ -6,7 +6,7 @@ layout: default
 
 Welcome! I’m Tania Green — a lifelong learner who loves using data to answer big questions. Scroll down to explore my handpicked data science projects, and feel free to reach out if one sparks your interest!
 
-<a href="/files/Tania_Green_Resume_2025.pdf" class="button" target="_blank">📄 View My Resume</a>
+<a href="/files/TANIA_GREEN_Resume_2025_final.pdf" class="button" target="_blank">📄 View My Resume</a>
 <a href="https://www.linkedin.com/in/taniagreen03" class="button" target="_blank">🔗 Connect on LinkedIn</a>
 
 ---
