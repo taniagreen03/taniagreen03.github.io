@@ -17,9 +17,6 @@ Explored the alignment between customer-written Amazon reviews and their corresp
 
 By applying **Pearson and Spearman** correlation tests, the project uncovered instances where sentiment and star ratings diverged — highlighting the complexity of customer feedback and the limitations of relying solely on numerical scores for product evaluation.
 
-**Tools & Techniques:** <br>
-**Python, VADER Sentiment Analysis, Statistical Correlation (Pearson & Spearman), Data Visualization**
-
 ![Sentiment Analysis](files/amazon_review_sentiment.png)
 
 [Amazon Review Sentiment Analysis](https://github.com/taniagreen03/D502-Capstone)
@@ -32,3 +29,10 @@ Random Forest achieved strong performance on the test set; however, cross-valida
 ![Churn Feature Importance](files/feature_importance.png)
 
 [Telecom Churn Predicition](https://github.com/taniagreen03/Telecom-Churn-Prediction)
+
+## Exploratory Data Analysis: HR Attrition
+In this project, I explored an HR dataset to identify which departments experience the highest attrition and what employee-level factors may contribute to it. The Sales department had the highest attrition rate, and key influencing factors included age, income, commute distance, and work-life balance.
+
+![HR Attrition Chart](files/attrition_chart.png)
+
+[EDA - HR Attrition](https://github.com/taniagreen03/eda_hr_attrition)
